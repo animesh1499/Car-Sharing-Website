@@ -1,2 +1,2 @@
 # Car-Sharing-Website
-Website that helps in booking your car journeys Nation wide.
+Website that helps to book your car journeys Nation wide.
